@@ -17,12 +17,12 @@
 
 #### 💻 Lenguajes de Programación  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,js,py,bash,c++" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,py,bash,cpp,html,css" />
 </p>
 
 #### ⚙️ Frameworks & Librerías  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,laravel,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,laravel,bootstrap" />
 </p>
 
 #### 🗄️ Bases de Datos  
@@ -37,7 +37,10 @@
 
 ---
 
+### 🌐 Mi Portafolio  
+🔗 [Visita mi portafolio web aquí](https://geronimo-alarcon.onrender.com/)
 ### 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GeritoJavita&show_icons=true&theme=tokyonight" alt="stats"/>
   <br/>
